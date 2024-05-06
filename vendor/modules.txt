@@ -1,0 +1,15 @@
+# github.com/go-kit/kit v0.13.0
+## explicit; go 1.17
+github.com/go-kit/kit/endpoint
+# github.com/go-kit/log v0.2.1
+## explicit; go 1.17
+github.com/go-kit/log
+# github.com/go-logfmt/logfmt v0.5.1
+## explicit; go 1.17
+github.com/go-logfmt/logfmt
+# github.com/google/uuid v1.2.0
+## explicit
+github.com/google/uuid
+# github.com/lithammer/shortuuid/v3 v3.0.7
+## explicit; go 1.13
+github.com/lithammer/shortuuid/v3
