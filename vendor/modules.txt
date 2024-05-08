@@ -23,6 +23,12 @@ github.com/google/uuid
 # github.com/lithammer/shortuuid/v3 v3.0.7
 ## explicit; go 1.13
 github.com/lithammer/shortuuid/v3
+# github.com/oklog/oklog v0.3.2
+## explicit
+github.com/oklog/oklog/pkg/group
+# github.com/oklog/run v1.1.0
+## explicit; go 1.13
+github.com/oklog/run
 # golang.org/x/net v0.0.0-20211216030914-fe4d6282115f
 ## explicit; go 1.17
 golang.org/x/net/context
